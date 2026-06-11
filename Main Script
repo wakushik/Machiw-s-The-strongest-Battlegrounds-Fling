@@ -1,0 +1,3 @@
+-- Ready for use script
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wakushik/Machiw-s-The-strongest-Battlegrounds-Fling/refs/heads/main/Machiws%20Tsb%20Protected%20Code"))()
