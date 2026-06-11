@@ -2,6 +2,14 @@
 
 ---
 
+```lua
+-- Use atleast Xeno/Solara for this. Paste and use :3
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wakushik/Machiw-s-The-strongest-Battlegrounds-Fling/refs/heads/main/Machiws%20Tsb%20Protected%20Code"))()
+```
+
+---
+
 ## [ About Script ]
 My tool developed specifically for "The Strongest Battlegrounds", you can use it in other games but it can be buggy or even not work.
 
